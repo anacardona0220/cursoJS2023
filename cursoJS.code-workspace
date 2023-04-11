@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "cursoJS",
+			"path": "."
+		},
+		{
+			"name": "Curso JS Moderno - FIN",
+			"path": "../cursoJavaScript/Curso JS Moderno - FIN"
+		},
+		{
+			"name": "Curso JS Moderno",
+			"path": "../cursoJavaScript/Curso JS Moderno"
+		}
+	],
+	"settings": {}
+}
